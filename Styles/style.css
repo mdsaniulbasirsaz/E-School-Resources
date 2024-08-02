@@ -1,0 +1,34 @@
+html, body{
+    background-color: #E5E5E5;
+    overflow-x: hidden;
+}
+
+/* main{
+    max-width: 1440px;
+} */
+
+.navbar img{
+    width: 100px;
+}
+
+.top-bar img{
+    width: 554px;
+}
+
+.top-bar-bottom .topic-img{
+    width: 66px;
+}
+
+.top-bar-bottom .student-img{
+    width: 80px;
+}
+.top-bar-bottom .test-img{
+    width: 78px;
+}
+.top-bar-bottom .students-img{
+    width: 71px;
+}
+
+.online-courses img{
+    width: 300px;
+}
